@@ -1,3 +1,5 @@
+'/c/Users/Kanis/Downloads/Architecture Diagram.drawio.png'
+
 graph TB
     subgraph OnPrem["On-Premises"]
         AD[Active Directory]
