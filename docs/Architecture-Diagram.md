@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1MhQNOSxQ9Ji5OfoqroD2f7vO2nUxYj3Q/view?usp=sharing" alt="Architecture Diagram" />
+!['Architecture Diagram']("https://drive.google.com/file/d/1MhQNOSxQ9Ji5OfoqroD2f7vO2nUxYj3Q/view?usp=sharing")
 
 graph TB
     subgraph OnPrem["On-Premises"]
