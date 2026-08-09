@@ -1,5 +1,8 @@
 !['Architecture Diagram']("https://drive.google.com/file/d/1MhQNOSxQ9Ji5OfoqroD2f7vO2nUxYj3Q/view?usp=sharing")
 
+<img width="1200" height="1070" alt="Architecture Diagram drawio" src="https://github.com/user-attachments/assets/25b69b51-9783-4334-bcd4-e24618e5e6b3" />
+
+
 graph TB
     subgraph OnPrem["On-Premises"]
         AD[Active Directory]
